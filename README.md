@@ -27,7 +27,7 @@ We took a look at this question from the vantage point of three groups of travel
 2) A Group of 2 (romantic or not) and 
 3) A group of 3 friends. 
 
-### Solo Traveller
+### 1. Solo Traveller
 The first question we had was what was the optimal room type by price would be for the solo traveller. As you can see we settled on 3 types of rooms. 
 
 Price
@@ -50,7 +50,7 @@ As you can see from the slide we settled on these two options (read info off sli
 
 []
 
-### Pair
+### 2. Pair
 Next we took a look at the problem from the viewpoint of a pair of travellers.
 
 Price
@@ -79,7 +79,7 @@ One is in Sumida Ku and is said to be perfect for couples while the other is in 
 
 []
 
-### Group of Three
+### 3. Group of Three
 
 Last but not least we had a look at the trip from the standpoint of a group of three. 
 
