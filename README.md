@@ -1,4 +1,7 @@
 # Airbnb Tokyo
+
+Google Data Studio Link: https://datastudio.google.com/u/0/reporting/1c5affa2-e4fd-432b-a7a8-916be6cb4bf4/page/61cDC
+
 ## What is Airbnb?
 Airbnb is an online market place that allows travellers to enter their desired travel destination, 
 dates and number of guests into a search bar which then connects these travellers with people who want to rent out there homes.
